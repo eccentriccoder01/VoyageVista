@@ -1,0 +1,62 @@
+{
+  "name": "ecommerce-front",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.2",
+    "@testing-library/jest-dom": "^5.11.10",
+    "@testing-library/react": "^11.2.6",
+    "@testing-library/user-event": "^12.8.3",
+    "bootstrap": "^4.6.2",
+    "bootstrap-css-only": "^4.4.1",
+    "braintree-web": "^3.76.2",
+    "braintree-web-drop-in-react": "^1.2.1",
+    "compression": "^1.7.4",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mdbreact": "^4.6.1",
+    "moment": "^2.29.1",
+    "photoswipe": "^4.1.3",
+    "pm2": "^5.3.0",
+    "query-string": "^7.0.0",
+    "react": "^17.0.2",
+    "react-bootstrap": "^1.6.7",
+    "react-datepicker": "^4.21.0",
+    "react-dom": "^17.0.2",
+    "react-images": "^0.6.7",
+    "react-loading-overlay": "^1.0.1",
+    "react-modal-video": "^1.2.6",
+    "react-photo-gallery": "^8.0.0",
+    "react-photoswipe-gallery": "^1.3.6",
+    "react-rating-stars-component": "^2.2.0",
+    "react-responsive-carousel": "^3.2.18",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^5.0.1",
+    "sass": "^1.69.0",
+    "web-vitals": "^1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

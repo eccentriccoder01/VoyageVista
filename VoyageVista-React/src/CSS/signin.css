@@ -1,0 +1,23 @@
+  #login-intro,
+  #login-intro-form {
+    color: #ffffff;
+    background-image: url(./../image/login/background.jpg);
+    background-size: 50;
+  }
+  
+  @media (max-width: 768px) {
+    #login-intro {
+      visibility: hidden;
+      display: none;
+    }
+  }
+  
+  .loader {
+    position: absolute;
+    z-index: 20;
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black background */
+    top: 0;
+    left: 0;
+  }
