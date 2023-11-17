@@ -1,0 +1,17 @@
+/* Redesigned Icon Styles */
+
+.fa-map-marker,
+.fa-building,
+.fa-plane {
+  font-size: 80px;
+  color: #ff4081; /* Vivid Pink */
+}
+
+.homeicon-shadow {
+  box-shadow: 2px 4px 6px 0 rgba(0, 0, 0, 0.2); /* Subtle box shadow */
+  transition: all 0.3s ease; /* Smooth transition on hover */
+}
+
+.homeicon-shadow:hover {
+  box-shadow: 3px 6px 8px 1px rgba(0, 0, 0, 0.4); /* Slightly larger shadow on hover */
+}

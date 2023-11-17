@@ -1,0 +1,43 @@
+.home-h2-main { color: #ff6384; box-shadow: 2px 5px #483d8b; font-size: 28px; }
+
+.home-h2 { color: #34c0ff; box-shadow: 2px 5px #af18ff; font-size: 24px; }
+
+#category-select { background-color: #303030; color: #ff4081; }
+
+#category-select-parent { background-color: #6200ea; }
+
+#option-search { background-color: #303030; }
+
+#search form .input-group-text { background-color: #6200ea; }
+
+#search-by-name { margin-top: 0.5rem; }
+
+#search-button { color: #ffffff; border: 2px solid #ff9800; background-color: #ff5722;}
+
+#search-button:hover { color: #ffffff; border: 2px solid #f9c00c; }
+
+.card { margin-top: 0.2rem; }
+
+.card-header-1 { background-color: #6ec6ff; color: #3d5afe; font-weight: bold; font-size: 16px; }
+
+#card-product-description { font-weight: 600; font-size: 17px; padding: 0.3rem; color: #ff6e40; background-color: #404040; }
+
+#view-product, #add-to-cart { font-weight: 600; padding: 0.3rem; margin: 0.2rem; font-size: 16px; }
+
+#shop h4 { font-size: 20px; font-weight: bold; border-bottom: 3px solid #ff9f8d; padding: 0.2rem; margin: 0.5rem auto; color: #FFD700; }
+
+#shop ul { font-weight: 600; color: #ff5722; }
+
+#shop #radio-button-shop { font-weight: 600; color: #3cff00; }
+
+#shop h2 { font-size: 30px; font-weight: bold; padding: 1rem 0.2rem 0.2rem; margin: 1rem; border-bottom: 3px solid #ff9f00; box-shadow: 1px 5px #ff00a4; color: #e0e0e0;}
+
+#cart #cart-with-item { font-weight: 600; padding: 0.3rem auto; margin-top: 2rem; color: #388e3c; text-align: center; }
+
+#cart-empty { font-weight: 600; padding: 2rem auto; margin-top: 2rem; color: #388e3c; line-height: 30px; text-align: center; }
+
+#cart-summery { font-weight: 600; padding: 2rem auto; margin-top: 2rem; box-shadow: 5px 10px #1a237e; color: #fbc02d; border: 1px solid #ff8f00; text-align: center; }
+
+#cart-summery-box { box-shadow: 5px 10px #607d8b; margin-top: 1rem; padding: 1rem; border: 1px solid #bdbdbd; }
+
+.cart-product-details { box-shadow: 5px 10px #607d8b;  margin-top: 1rem; padding: 0.5rem; border: 1px solid #bdbdbd; margin-bottom: 1rem; }
