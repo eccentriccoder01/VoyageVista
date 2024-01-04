@@ -19,7 +19,7 @@ import Gallerylook from './core/Galleryimg';
 import Team from './core/Team';
 import About from './core/About';
 import Contact from './core/Contact';
-
+import PageNotFound from './core/PageNotFound';
 const Routes = () => {
     return (
         <BrowserRouter>
@@ -41,6 +41,7 @@ const Routes = () => {
                 <PrivateRoute path="/admin/products" exact component={ManageProducts} />
                 <AdminRoute path="/admin/product/update/:productId" exact component={UpdateProduct} />
                 <AdminRoute path="/admin/category/update/:categoryId" exact component={UpdateCategory} />
+                <Route path="*" component={PageNotFound}/>
             </Switch>
         </BrowserRouter>
     );
