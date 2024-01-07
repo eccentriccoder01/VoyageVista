@@ -3,17 +3,18 @@ import { MDBCol, MDBContainer, MDBRow, MDBFooter } from "mdbreact";
 import { Link } from "react-router-dom";
 
 const FooterPagePro = () => {
+
   return (
     <MDBFooter color="blue-grey" className="page-footer font-small lighten-5">
-      <div className="bg-light" style={{background: `url('./image/Australia.jpg')`}}>
+      <div className="bg-light" style={{ background: `url('./image/Australia.jpg')` }}>
         <MDBContainer>
           <MDBRow className="py-3 align-items-center">
             <MDBCol className="text-center text-secondary">
               <h6 className="mb-1 font-weight-bold">Connect With Us</h6>
-                <i className="fab fa-facebook-f mr-1"> </i>
-                <i className="fab fa-twitter mr-1"> </i>
-                <i className="fab fa-linkedin-in mr-1"> </i>
-                <i className="fab fa-instagram mr-1"> </i>
+              <i className="fab fa-facebook-f mr-1"> </i>
+              <i className="fab fa-twitter mr-1"> </i>
+              <i className="fab fa-linkedin-in mr-1"> </i>
+              <i className="fab fa-instagram mr-1"> </i>
             </MDBCol>
           </MDBRow>
         </MDBContainer>
@@ -26,7 +27,7 @@ const FooterPagePro = () => {
             </h6>
             <hr className="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style={{ width: "70px" }} />
             <p className="text-justify">
-            <span style={{ fontWeight: 'bold', fontFamily: 'Copperplate Gothic Light' }}>VoyageVista</span> doesn't just represent a travel website; it embodies the unison of globetrotters and seasoned travel maestros on a single digital stage. We've crafted a virtual haven where adventurers and travel connoisseurs converge. It's more than a travel marketplace; it's a journey reimagined.            </p>
+              <span style={{ fontWeight: 'bold', fontFamily: 'Copperplate Gothic Light' }}>VoyageVista</span> doesn't just represent a travel website; it embodies the unison of globetrotters and seasoned travel maestros on a single digital stage. We've crafted a virtual haven where adventurers and travel connoisseurs converge. It's more than a travel marketplace; it's a journey reimagined.            </p>
           </MDBCol>
           <MDBCol className="dark-grey-text">
             <h6 className="text-uppercase">
@@ -69,10 +70,10 @@ const FooterPagePro = () => {
               </Link>
             </p>
           </MDBCol>
-          <MDBCol  className="dark-grey-text">
-            <p><i className="fa fa-thumb-tack mr-2" /><i>(Imaginary Office)</i></p>
-            <p><i className="fa fa-envelope mr-2" /> info@voyagevista.com<i>(non-existent)</i></p>
-            <p><i className="fa fa-phone mr-2" /> + 01 234 567 88<i>(non-existent)</i></p>
+          <MDBCol className="dark-grey-text" >
+            <p><i className="fa fa-thumb-tack mr-2" /><i >(Imaginary Office)</i></p>
+            <p onClick={() => window.location = 'mailto:info@voyagevista.com'}><i className="fa fa-envelope mr-2" /> info@voyagevista.com<i>(non-existent)</i></p>
+            <p onClick={() => window.location = 'tel: +01 234 567 88'}><i className="fa fa-phone mr-2" /> + 01 234 567 88<i>(non-existent)</i></p>
           </MDBCol>
         </MDBRow>
       </MDBContainer>
