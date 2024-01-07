@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/VoyageVista/voyagevista-react/static/css/main.300f4b1c.css",
+    "main.js": "/VoyageVista/voyagevista-react/static/js/main.88a57b7d.js",
+    "static/media/desk.png": "/VoyageVista/voyagevista-react/static/media/desk.4f5b6237b585c5fe658d.png",
+    "static/media/avatar.png": "/VoyageVista/voyagevista-react/static/media/avatar.d8e3ceb6da39eef38028.png",
+    "static/media/about.png": "/VoyageVista/voyagevista-react/static/media/about.b0c0df11f088e4627132.png",
+    "static/media/BG.png": "/VoyageVista/voyagevista-react/static/media/BG.5d00417b0d1552ac9121.png",
+    "static/media/fa-solid-900.ttf": "/VoyageVista/voyagevista-react/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/VoyageVista/voyagevista-react/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/bg2.jpeg": "/VoyageVista/voyagevista-react/static/media/bg2.a0ece6fdd86dccdbe1c0.jpeg",
+    "static/media/fa-solid-900.woff2": "/VoyageVista/voyagevista-react/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/VoyageVista/voyagevista-react/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/Souhardya.jpg": "/VoyageVista/voyagevista-react/static/media/Souhardya.bee2c8b3215aa02b2766.jpg",
+    "static/media/SouhardyaBG.jpg": "/VoyageVista/voyagevista-react/static/media/SouhardyaBG.0f1a723b6eddcf85e8a9.jpg",
+    "static/media/View1.jpg": "/VoyageVista/voyagevista-react/static/media/View1.90cdae14a218e5a69411.jpg",
+    "static/media/fa-regular-400.ttf": "/VoyageVista/voyagevista-react/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/Salto Ángel, Venezuela.jpg": "/VoyageVista/voyagevista-react/static/media/Salto Ángel, Venezuela.3aea5fe282fe87b634b7.jpg",
+    "static/media/View4.jpg": "/VoyageVista/voyagevista-react/static/media/View4.182764b1fca76acf217f.jpg",
+    "static/media/View5.jpg": "/VoyageVista/voyagevista-react/static/media/View5.6de7547a18bc5c285952.jpg",
+    "static/media/View3.jpg": "/VoyageVista/voyagevista-react/static/media/View3.9e5806f9de3874ed14a4.jpg",
+    "static/media/SagnikBG.jpg": "/VoyageVista/voyagevista-react/static/media/SagnikBG.643ae80254854bb31bd9.jpg",
+    "static/media/View6.jpg": "/VoyageVista/voyagevista-react/static/media/View6.8ef47b74a431e2aff4bd.jpg",
+    "static/media/View2.jpg": "/VoyageVista/voyagevista-react/static/media/View2.04a569c107d7aade7c88.jpg",
+    "static/media/signup.jpg": "/VoyageVista/voyagevista-react/static/media/signup.f33d0115e127242e5f91.jpg",
+    "static/media/background.jpg": "/VoyageVista/voyagevista-react/static/media/background.ce0e903f25fb0c9dea19.jpg",
+    "static/media/fa-regular-400.woff2": "/VoyageVista/voyagevista-react/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/fa-v4compatibility.ttf": "/VoyageVista/voyagevista-react/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/VoyageVista/voyagevista-react/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/VoyageVista/voyagevista-react/index.html",
+    "static/media/arrow_left.svg": "/VoyageVista/voyagevista-react/static/media/arrow_left.2b063d13b9ef574cd7d1.svg",
+    "static/media/arrow_right.svg": "/VoyageVista/voyagevista-react/static/media/arrow_right.0897f985cc5c7537b31d.svg",
+    "main.300f4b1c.css.map": "/VoyageVista/voyagevista-react/static/css/main.300f4b1c.css.map",
+    "main.88a57b7d.js.map": "/VoyageVista/voyagevista-react/static/js/main.88a57b7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.300f4b1c.css",
+    "static/js/main.88a57b7d.js"
+  ]
+}
