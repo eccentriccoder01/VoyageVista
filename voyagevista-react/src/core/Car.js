@@ -11,9 +11,9 @@ import { Link } from "react-router-dom";
 
 export default function Car() {
     return (
-  <Carousel className="container-fluid p-0">
-  <Carousel.Item className="vertical-center">
-    <img className="d-block w-100 img-fluid" src={View1} alt="First slide"/>
+  <Carousel className="container-fluid p-0 "style={{ height:"80vh" }}>
+  <Carousel.Item className="vertical-center h-100">
+    <img className="d-block w-100 img-fluid h-100 object-fit-cover" src={View1} alt="First slide"/>
     <Carousel.Caption className="Car-caption-center justify-content-end">
       <div className="text-center">
       <h1 className="display-5 text-white pb-3 font-weight-bold">Crafting Unforgettable Journeys for Every Wallet With <span style={{ fontWeight: 'bold', fontFamily: 'Copperplate Gothic Light' }}>VoyageVista</span></h1>
@@ -21,8 +21,8 @@ export default function Car() {
       </div>
     </Carousel.Caption>
   </Carousel.Item>
-  <Carousel.Item className="vertical-center">
-    <img className="d-block w-100 img-fluid" src={View2} alt="First slide"/>
+  <Carousel.Item className="vertical-center h-100">
+    <img className="d-block w-100 img-fluid  h-100 object-fit-cover" src={View2} alt="First slide"/>
     <Carousel.Caption className="Car-caption-center justify-content-end">
       <div className="text-center">
       <h1 className="display-5 text-white pb-3 font-weight-bold"><span style={{ fontWeight: 'bold', fontFamily: 'Copperplate Gothic Light' }}>VoyageVista</span>: Discovering New Worlds, Where Every Voyage is a Lesson</h1>
@@ -30,8 +30,8 @@ export default function Car() {
       </div>
     </Carousel.Caption>
   </Carousel.Item>
-  <Carousel.Item className="vertical-center">
-    <img className="d-block w-100 img-fluid" src={View3} alt="First slide"/>
+  <Carousel.Item className="vertical-center h-100">
+    <img className="d-block w-100 img-fluid h-100 object-fit-cover" src={View3} alt="First slide"/>
     <Carousel.Caption className="Car-caption-center justify-content-start">
       <div className="text-center">
       <h1 className="display-5 text-white pb-3 font-weight-bold">Unveil New Horizons: From Solo Escapes to Group Expeditions With <span style={{ fontWeight: 'bold', fontFamily: 'Copperplate Gothic Light' }}>VoyageVista</span></h1>
@@ -39,8 +39,8 @@ export default function Car() {
       </div>
     </Carousel.Caption>
   </Carousel.Item>
-  <Carousel.Item className="vertical-center">
-    <img className="d-block w-100 img-fluid" src={View4} alt="First slide"/>
+  <Carousel.Item className="vertical-center h-100">
+    <img className="d-block w-100 img-fluid h-100 object-fit-cover" src={View4} alt="First slide"/>
     <Carousel.Caption className="Car-caption-center justify-content-start">
       <div className="text-center">
       <h1 className="display-5 text-white pb-3 font-weight-bold">Chase Your Ideal Getaway With <span style={{ fontWeight: 'bold', fontFamily: 'Copperplate Gothic Light' }}>VoyageVista</span>: Unleash the Adventure Within</h1>
@@ -48,8 +48,8 @@ export default function Car() {
       </div>
     </Carousel.Caption>
   </Carousel.Item>
-  <Carousel.Item className="vertical-center">
-    <img className="d-block w-100 img-fluid" src={View5} alt="First slide"/>
+  <Carousel.Item className="vertical-center h-100">
+    <img className="d-block w-100 img-fluid h-100 object-fit-cover" src={View5} alt="First slide"/>
     <Carousel.Caption className="Car-caption-center justify-content-center">
       <div className="text-center">
       <h1 className="display-5 text-white pb-3 font-weight-bold">Grab a Ticket With <span style={{ fontWeight: 'bold', fontFamily: 'Copperplate Gothic Light' }}>VoyageVista</span>, Set Your Sights, Relax and Wander</h1>
@@ -57,8 +57,8 @@ export default function Car() {
       </div>
     </Carousel.Caption>
   </Carousel.Item>
-  <Carousel.Item className="vertical-center">
-    <img className="d-block w-100 img-fluid" src={View6} alt="First slide"/>
+  <Carousel.Item className="vertical-center h-100">
+    <img className="d-block w-100 img-fluid h-100 object-fit-cover" src={View6} alt="First slide"/>
     <Carousel.Caption className="Car-caption-center justify-content-center">
       <div className="text-center">
       <h1 className="display-5 text-white pb-3 font-weight-bold">Venture Beyond With <span style={{ fontWeight: 'bold', fontFamily: 'Copperplate Gothic Light' }}>VoyageVista</span>, Embrace the Unknown</h1>
