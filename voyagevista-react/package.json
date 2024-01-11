@@ -2,7 +2,6 @@
   "name": "ecommerce-front",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://eccentriccoder01.github.io/VoyageVista/voyagevista-react/",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.4.2",
     "@testing-library/jest-dom": "^5.11.10",
@@ -41,7 +40,6 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -f -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
