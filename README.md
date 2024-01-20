@@ -27,7 +27,10 @@ Welcome to VoyageVista, your ultimate destination for seamless international tra
 
 - It's Live at [VoyageVista](voyage-vista-wdqk.onrender.com)
 
-<br/>
+<h2>Demo </h2>
+<div align="center">
+<img src="https://github.com/eccentriccoder01/VoyageVista/assets/130065095/d93248f3-0c2a-4bbf-a8f0-fbdc461d6754" width="80%"></div>
+
 
 ## Technologies Used 🚀
 
@@ -35,12 +38,25 @@ Welcome to VoyageVista, your ultimate destination for seamless international tra
 
 <br/>
 
-## Contributors:
-<a href="https://github.com/eccentriccoder01/VoyageVista/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=eccentriccoder01/VoyageVista" />
-</a>
 
-<br/>
+## Contributors ✨
+
+Gratitude is extended to these amazing individuals 💜
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/eccentriccoder01"><img src="https://avatars.githubusercontent.com/u/121952662?v=4" width="100px;" alt=""/><br /><sub><b>Sagnik Chakraborty</b></sub></a><br /><br><a href="#maintenance-Tlazypanda" title="Maintenance"><a href="https://github.com/eccentriccoder01" target="blank"><img align="center" src="https://github.com/abhraneel2004/socialite_fork/assets/115551450/826c42f3-5f22-463c-8656-339ef95e8907"  height="30" width="30" /></a></a><br></td>
+
+<td align="center"><a href="https://github.com/AnitSarkar123"><img src="https://avatars.githubusercontent.com/u/135215478?v=4" width="100px;" alt=""/><br /><sub><b>Anit Sarkar</b></sub></a><br /><br><a title="Code"><a href="https://github.com/AnitSarkar123" target="blank"><img align="center" src="https://github.com/abhraneel2004/socialite_fork/assets/115551450/826c42f3-5f22-463c-8656-339ef95e8907"  height="30" width="30" /></a><br></td>
+
+<td align="center"><a href="https://github.com/YooAshu"><img src="https://avatars.githubusercontent.com/u/95643200?v=4" width="100px;" alt=""/><br /><sub><b>Asghar Hussain</b></sub></a><br /><br><a  title="Code"><a href="https://github.com/YooAshu" target="blank"><img align="center" src="https://github.com/abhraneel2004/socialite_fork/assets/115551450/826c42f3-5f22-463c-8656-339ef95e8907"  height="30" width="30" /></a><br></td>
+    
+<td align="center"><a href="https://github.com/RuthwikReddy09"><img src="https://avatars.githubusercontent.com/u/126862059?v=4" width="100px;" alt=""/><br /><sub><b>Ruthwik</b></sub></a><br /> <br> <a  title="Code"><a href="https://github.com/RuthwikReddy09" target="blank"><img align="center" src="https://github.com/abhraneel2004/socialite_fork/assets/115551450/826c42f3-5f22-463c-8656-339ef95e8907"  height="30" width="30"/></a><br></td>
+    
+<td align="center"><a href="https://github.com/Sneha123-zudo"><img src="https://avatars.githubusercontent.com/u/145490348?v=4" width="100px;" alt=""/><br /><sub><b>Sneha Mishra</b></sub></a><br/><br><a  title="Code"><a href="https://github.com/Sneha123-zudo" target="blank"><img align="center" src="https://github.com/abhraneel2004/socialite_fork/assets/115551450/826c42f3-5f22-463c-8656-339ef95e8907" height="30" width="30" alt="logo" /></a><br></td>
+
+<td align="center"><a href="https://github.com/arghadipmanna101"><img src="https://avatars.githubusercontent.com/u/130065095?v=4" width="100px;" alt=""/><br /><sub><b>Arghadip Manna</b></sub></a><br/><br><a  title="Code"><a href="https://github.com/arghadipmanna101" target="blank"><img align="center" src="https://github.com/abhraneel2004/socialite_fork/assets/115551450/826c42f3-5f22-463c-8656-339ef95e8907" height="30" width="30" alt="logo" /></a><br></td>
+  </tr>
+  </table>
 
 ## Overview ⭐
 #### Key Features:
@@ -81,3 +97,8 @@ ontributions of any kind from anyone are always welcome🌟❕
 Your insights are invaluable to us. Reach out to our support team for any inquiries, feedback, or concerns.
 
 Thank you for entrusting VoyageVista with your travel needs. Bon voyage❕
+<br>
+<h2>Let's start exploring </h2>
+<div align="center">
+<img src="https://media.giphy.com/media/l41m6oJBtKRm1NseA/giphy.gif" width="50%"></div>
+
