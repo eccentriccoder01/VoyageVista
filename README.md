@@ -25,7 +25,7 @@
 ## Introduction 📌
 Welcome to VoyageVista, your ultimate destination for seamless international travel bookings without the burden of additional charges. Our platform is meticulously crafted to enhance your journeys, ensuring a truly effortless and global experience.
 
-- It's Live at [VoyageVista](voyage-vista-wdqk.onrender.com)
+- It's Live at [VoyageVista](https://voyagevista.vercel.app/)
 
 <h2>Demo </h2>
 <div align="center">
