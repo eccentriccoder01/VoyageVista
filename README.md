@@ -4,19 +4,19 @@
  <p>
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=eccentriccoder01%2FVoyageVista%20&countColor=%23263759&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/eccentriccoder01/VoyageVista)
-![GitHub Repo stars](https://img.shields.io/github/stars/eccentriccoder01/VoyageVista)
-![GitHub contributors](https://img.shields.io/github/contributors/eccentriccoder01/VoyageVista)
-![GitHub last commit](https://img.shields.io/github/last-commit/eccentriccoder01/VoyageVista)
-![GitHub repo size](https://img.shields.io/github/repo-size/eccentriccoder01/VoyageVista)
-![GitHub total lines](https://sloc.xyz/github/eccentriccoder01/VoyageVista)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat)
+![Visitors](https://api.visitorbadge.io/api/Visitors?path=eccentriccoder01%2FVoyageVista%20&countColor=%23263759&style=flat)
+![GitHub Forks](https://img.shields.io/github/forks/eccentriccoder01/VoyageVista)
+![GitHub Repo Stars](https://img.shields.io/github/stars/eccentriccoder01/VoyageVista)
+![GitHub Contributors](https://img.shields.io/github/contributors/eccentriccoder01/VoyageVista)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/eccentriccoder01/VoyageVista)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/eccentriccoder01/VoyageVista)
+![GitHub Total Lines](https://sloc.xyz/github/eccentriccoder01/VoyageVista)
 ![Github](https://img.shields.io/github/license/eccentriccoder01/VoyageVista)
-![GitHub issues](https://img.shields.io/github/issues/eccentriccoder01/VoyageVista)
-![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/eccentriccoder01/VoyageVista)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/eccentriccoder01/VoyageVista)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/eccentriccoder01/VoyageVista)
+![GitHub Issues](https://img.shields.io/github/issues/eccentriccoder01/VoyageVista)
+![GitHub Closed Issues](https://img.shields.io/github/issues-closed-raw/eccentriccoder01/VoyageVista)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eccentriccoder01/VoyageVista)
+![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/eccentriccoder01/VoyageVista)
  </p>
  </div>
 
