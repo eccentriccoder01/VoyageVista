@@ -1,6 +1,13 @@
 <div align="center"><img src="apple-touch-icon.png"/></div>
 
-<div align="center">
+# <div align="center">VOYAGE VISTA - EXPLORE THE WORLD</div>
+
+## Introduction 📌
+Welcome to VoyageVista, your ultimate destination for seamless international travel bookings without the burden of additional charges. Our platform is meticulously crafted to enhance your journeys, ensuring a truly effortless and global experience.
+
+- It's Live at [VoyageVista](https://voyagevista.vercel.app/)
+
+ <div align="center">
  <p>
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
@@ -19,13 +26,6 @@
 ![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/eccentriccoder01/VoyageVista)
  </p>
  </div>
-
-# <div align="center">VOYAGE VISTA - EXPLORE THE WORLD</div>
-
-## Introduction 📌
-Welcome to VoyageVista, your ultimate destination for seamless international travel bookings without the burden of additional charges. Our platform is meticulously crafted to enhance your journeys, ensuring a truly effortless and global experience.
-
-- It's Live at [VoyageVista](https://voyagevista.vercel.app/)
 
 <h2>Demo </h2>
 <div align="center">
