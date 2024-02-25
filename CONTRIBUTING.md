@@ -12,7 +12,7 @@
 
 **2.** Clone the forked repository.
 ```
-   git clone https://github.com/YOUR_USERNAME/TO-DO-LIST.git
+   git clone https://github.com/YOUR_USERNAME/VoyageVista.git
 ```
 
 **3.** Navigate to the project directory.
