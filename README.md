@@ -91,7 +91,7 @@ Report bugs and  issues or propose improvements through our GitHub repository.
 ## Contributing is fun🧡
 
 Enhance VoyageVista with your contributions! Whether you have innovative suggestions, spot bugs, or wish to introduce new features.
-ontributions of any kind from anyone are always welcome🌟❕
+Contributions of any kind from anyone are always welcome🌟❕
 
 
 Your insights are invaluable to us. Reach out to our support team for any inquiries, feedback, or concerns.
