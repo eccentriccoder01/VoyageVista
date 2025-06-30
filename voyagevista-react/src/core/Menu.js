@@ -9,6 +9,7 @@ import avatar from './../image/login/avatar.png';
 import './../CSS/signin.css';
 import './../CSS/signup.css';
 import towerimage from "./../image/signup/bg2.jpeg";
+import V from '../image/V.png';
 
 const isActive = (history, path) => {
     if (history.location.pathname === path) {
@@ -152,7 +153,27 @@ const Menu = ({ history }) => {
 
     return (
         <nav className="navbar-expand-md" id="my-nav" style={{ backgroundColor: "#1E3959" }}>
-            <Link className="navbar-brand" to="/"><span style={{ color: 'white', fontSize: '30px', fontWeight: 'bold', height: '55px', lineHeight: '55px', fontFamily: 'Copperplate Gothic Light' }}>VoyageVista</span></Link>
+                    <Link className="navbar-brand" to="/">
+            <span style={{
+                color: 'white',
+                fontSize: '30px',
+                fontWeight: 'bold',
+                height: '55px',
+                lineHeight: '55px',
+                fontFamily: 'Copperplate Gothic Light'
+            }}>
+                <img
+                    src={V}
+                    alt="V"
+                    style={{
+                        height: '2.5rem',
+                        transform: 'translateY(5px)',
+                        // marginRight: '4px'
+                    }}
+                />
+                oyageVista
+            </span>
+        </Link>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" style={{
                 marginTop: '15px',
                 padding: '9px 10px',

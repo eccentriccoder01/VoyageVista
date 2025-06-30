@@ -29,7 +29,7 @@ Welcome to VoyageVista, your ultimate destination for seamless international tra
 
 <h2>Demo </h2>
 <div align="center">
-<img src="https://github.com/eccentriccoder01/VoyageVista/assets/130065095/d93248f3-0c2a-4bbf-a8f0-fbdc461d6754" width="80%"></div>
+<img src="App.jpeg" width="80%"></div>
 
 
 ## Technologies Used 🚀
