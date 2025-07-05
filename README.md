@@ -26,6 +26,7 @@ Welcome to VoyageVista, your ultimate destination for seamless international tra
 ![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/eccentriccoder01/VoyageVista)
  </p>
  </div>
+ [![Open Source Helpers](https://www.codetriage.com/eccentriccoder01/voyagevista/badges/users.svg)](https://www.codetriage.com/eccentriccoder01/voyagevista)
 
 <h2>Demo </h2>
 <div align="center">
